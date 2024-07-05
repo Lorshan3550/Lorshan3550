@@ -67,11 +67,21 @@ Feel free to reach out to me via:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorshan3550&layout=compact&theme=radical)
 
-<!--## Support Me
+## Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lorshan3550&theme=radical)
+
+## Trophy Cabinet
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lorshan3550&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+## Support Me
 
 If you like my work, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)-->
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/lorshan)
 
 Thanks for visiting my profile! Have a great day! 😊
 
