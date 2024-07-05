@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm [Lorshan] 👋
+# Hi there, I'm Lorshan 👋
 
 Welcome to my GitHub profile! Here you will find information about my projects, skills, and how to get in touch with me.
 
 ## About Me
 
-I am a [Software Engineer] with a passion for [web development]. I enjoy working on innovative projects and continuously learning new technologies.
+I am a [Undergraduate Student] with a passion for [web development]. I enjoy working on innovative projects and continuously learning new technologies.
 
-<!-- - 🔭 I’m currently working on: [Mealz (Food Ordering Website)]
-- 🌱 I’m currently learning: [MERN Stack]
+- 🧑‍🎓 I’m currently studying at: [Sabaragamuwa University Of Sri Lanka]
+- 🌱 I’m currently learning: [Web Development]
 - 👯 I’m looking to collaborate on: [Web Development]
-- 🤔 I’m looking for help with: [Specific Need]
-- 💬 Ask me about: [Topic/Skill]-->
+- 🤔 I’m looking for help with: [Open Source Projects]
+<!--- 💬 Ask me about: []-->
 - 📫 How to reach me: [https://www.linkedin.com/in/narayanasamy-l-296144173/]
-- ⚡ Fun fact: [] -->
+<!--- ⚡ Fun fact: [] -->
 
 ## Skills
 
